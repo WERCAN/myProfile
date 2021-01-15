@@ -105,6 +105,14 @@ td {
     font-size: 25px;
 }
 
+.avatar {
+    padding-left: 20px;
+}
+
+.name {
+    padding-left: 20px;
+}
+
 .cizgi {
     border: 1px solid #09201c;
     margin-bottom: 5px;
