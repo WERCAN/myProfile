@@ -14,7 +14,7 @@ body {
     margin: 0;
 }
 
-.w3-col {
+.content {
     margin: 10px;
     display: flex;
     flex-direction: row;
